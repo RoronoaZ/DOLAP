@@ -24,3 +24,6 @@ September 2019
 - can create data samples and sketches with high performance and use them for different purposes such as privacy, query optimization, producing almost exact analysis results
 - will improve performance with query optimization methods that work in a heterogeneous system
 - with the help of user friendly toolsets and interfaces, an innovative database management system that can be utilized to generate dynamic and static queries will be developed.
+
+
+<a href="Project.md">Project</a>
